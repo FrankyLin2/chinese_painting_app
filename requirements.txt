@@ -1,6 +1,7 @@
 tensorboardX
 streamlit
 torch
+torchvision
 pillow
 numpy
 opencv-python-headless
