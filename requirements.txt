@@ -6,3 +6,4 @@ opencv-python
 pillow
 numpy
 opencv-python-headless
+libgl1-mesa-glx
