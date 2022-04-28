@@ -1,5 +1,4 @@
 tensorboardX
-opencv-python
 streamlit
 torch
 pillow
