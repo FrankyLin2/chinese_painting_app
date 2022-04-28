@@ -3,5 +3,5 @@ opencv-python
 streamlit
 torch
 opencv-python
-PIL
+pillow
 numpy
