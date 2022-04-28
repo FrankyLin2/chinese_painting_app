@@ -5,3 +5,4 @@ torch
 opencv-python
 pillow
 numpy
+opencv-python-
