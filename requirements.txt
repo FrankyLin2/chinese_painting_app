@@ -1,4 +1,4 @@
 tensorboardX
 opencv-python
 streamlit
-pytorch
+torch
