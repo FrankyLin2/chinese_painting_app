@@ -2,6 +2,6 @@ tensorboardX
 opencv-python
 streamlit
 torch
-opencv
+opencv-python
 PIL
 numpy
