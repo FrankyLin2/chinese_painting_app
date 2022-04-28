@@ -1,0 +1,4 @@
+tensorboardX
+opencv-python
+streamlit
+pytorch
